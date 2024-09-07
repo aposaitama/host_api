@@ -5,7 +5,7 @@
       "name": "Парацетамол",
       "description": "Знеболювальний та жарознижувальний засіб.",
       "price": 45.50,
-      "image": "https://example.com/images/paracetamol.jpg",
+      "image": "https://root.tblcdn.com/img/goods/af45c99d-56c8-41d0-a9de-165885bad426/1/img_0.jpg?v=AAAAAAnhZ4I",
       "available": true
     },
     {
@@ -13,7 +13,7 @@
       "name": "Нурофен",
       "description": "Протизапальний і знеболювальний препарат.",
       "price": 98.30,
-      "image": "https://example.com/images/nurofen.jpg",
+      "image": "https://root.tblcdn.com/img/goods/42132f85-e8cb-4c49-b9b3-275cbc7770b0/1/img_0.jpg?v=AAAAAAl986U",
       "available": true
     },
     {
@@ -21,7 +21,7 @@
       "name": "Но-шпа",
       "description": "Спазмолітичний засіб для полегшення болю.",
       "price": 76.20,
-      "image": "https://example.com/images/no-spa.jpg",
+      "image": "https://root.tblcdn.com/img/goods/4d006275-fd7d-4b8b-95a6-a89cef03483a/1/img_0.jpg?v=AAAAAAnhZ4c",
       "available": true
     },
     {
@@ -29,7 +29,7 @@
       "name": "Цитрамон",
       "description": "Комбінований анальгетик для полегшення головного болю.",
       "price": 22.00,
-      "image": "https://example.com/images/citramon.jpg",
+      "image": "https://root.tblcdn.com/img/goods/d7748151-a2ad-4beb-bbcd-55cf6f37bc87/1/img_0.jpg?v=AAAAAAmAdCw",
       "available": false
     },
     {
@@ -37,7 +37,7 @@
       "name": "Ібупрофен",
       "description": "Протизапальний і жарознижувальний засіб.",
       "price": 55.00,
-      "image": "https://example.com/images/ibuprofen.jpg",
+      "image": "https://root.tblcdn.com/img/goods/b584bb46-8e64-4cf9-9708-ac134062d028/1/img_0.jpg?v=AAAAAAoWu2k",
       "available": true
     },
     {
@@ -45,7 +45,7 @@
       "name": "Амоксиклав",
       "description": "Антибіотик широкого спектру дії.",
       "price": 150.50,
-      "image": "https://example.com/images/amoxiclav.jpg",
+      "image": "https://root.tblcdn.com/img/goods/890f2e45-e3d7-4107-a887-efe4247efc9d/1/img_0.jpg?v=AAAAAAnj5bI",
       "available": true
     },
     {
@@ -53,7 +53,7 @@
       "name": "Лінекс",
       "description": "Пробіотик для нормалізації мікрофлори кишечника.",
       "price": 120.00,
-      "image": "https://example.com/images/linex.jpg",
+      "image": "https://root.tblcdn.com/img/goods/49a807d8-acce-4edb-bd29-bf9e4849ee30/1/img_0.jpg?v=AAAAAAnlQP4",
       "available": false
     },
     {
@@ -61,7 +61,7 @@
       "name": "Еспумізан",
       "description": "Засіб для усунення підвищеного газоутворення.",
       "price": 80.70,
-      "image": "https://example.com/images/espumisan.jpg",
+      "image": "https://root.tblcdn.com/img/goods/e014befa-b07f-4398-9dd6-014534a3ffc2/1/img_0.jpg?v=AAAAAAnlQQc",
       "available": true
     },
     {
@@ -69,7 +69,7 @@
       "name": "Супрастин",
       "description": "Антигістамінний препарат для лікування алергії.",
       "price": 64.50,
-      "image": "https://example.com/images/suprastin.jpg",
+      "image": "https://root.tblcdn.com/img/goods/757449d5-b300-4952-9a22-3619c78525c2/1/img_0.jpg?v=AAAAAAnh5DE",
       "available": true
     },
     {
@@ -77,7 +77,7 @@
       "name": "Корвалол",
       "description": "Седативний засіб для заспокоєння нервової системи.",
       "price": 35.00,
-      "image": "https://example.com/images/corvalol.jpg",
+      "image": "https://root.tblcdn.com/img/goods/c7720922-d29c-4c66-9b6e-29e164456672/1/img_0.jpg?v=AAAAAAhZPXE",
       "available": true
     }
   ]
