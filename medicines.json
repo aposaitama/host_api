@@ -1,82 +1,84 @@
-[
-  {
-    "id": 1,
-    "name": "Парацетамол",
-    "description": "Знеболювальний та жарознижувальний засіб.",
-    "price": 45.50,
-    "image": "https://example.com/images/paracetamol.jpg",
-    "available": true
-  },
-  {
-    "id": 2,
-    "name": "Нурофен",
-    "description": "Протизапальний і знеболювальний препарат.",
-    "price": 98.30,
-    "image": "https://example.com/images/nurofen.jpg",
-    "available": true
-  },
-  {
-    "id": 3,
-    "name": "Но-шпа",
-    "description": "Спазмолітичний засіб для полегшення болю.",
-    "price": 76.20,
-    "image": "https://example.com/images/no-spa.jpg",
-    "available": true
-  },
-  {
-    "id": 4,
-    "name": "Цитрамон",
-    "description": "Комбінований анальгетик для полегшення головного болю.",
-    "price": 22.00,
-    "image": "https://example.com/images/citramon.jpg",
-    "available": false
-  },
-  {
-    "id": 5,
-    "name": "Ібупрофен",
-    "description": "Протизапальний і жарознижувальний засіб.",
-    "price": 55.00,
-    "image": "https://example.com/images/ibuprofen.jpg",
-    "available": true
-  },
-  {
-    "id": 6,
-    "name": "Амоксиклав",
-    "description": "Антибіотик широкого спектру дії.",
-    "price": 150.50,
-    "image": "https://example.com/images/amoxiclav.jpg",
-    "available": true
-  },
-  {
-    "id": 7,
-    "name": "Лінекс",
-    "description": "Пробіотик для нормалізації мікрофлори кишечника.",
-    "price": 120.00,
-    "image": "https://example.com/images/linex.jpg",
-    "available": false
-  },
-  {
-    "id": 8,
-    "name": "Еспумізан",
-    "description": "Засіб для усунення підвищеного газоутворення.",
-    "price": 80.70,
-    "image": "https://example.com/images/espumisan.jpg",
-    "available": true
-  },
-  {
-    "id": 9,
-    "name": "Супрастин",
-    "description": "Антигістамінний препарат для лікування алергії.",
-    "price": 64.50,
-    "image": "https://example.com/images/suprastin.jpg",
-    "available": true
-  },
-  {
-    "id": 10,
-    "name": "Корвалол",
-    "description": "Седативний засіб для заспокоєння нервової системи.",
-    "price": 35.00,
-    "image": "https://example.com/images/corvalol.jpg",
-    "available": true
-  }
-]
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Парацетамол",
+      "description": "Знеболювальний та жарознижувальний засіб.",
+      "price": 45.50,
+      "image": "https://example.com/images/paracetamol.jpg",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Нурофен",
+      "description": "Протизапальний і знеболювальний препарат.",
+      "price": 98.30,
+      "image": "https://example.com/images/nurofen.jpg",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Но-шпа",
+      "description": "Спазмолітичний засіб для полегшення болю.",
+      "price": 76.20,
+      "image": "https://example.com/images/no-spa.jpg",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Цитрамон",
+      "description": "Комбінований анальгетик для полегшення головного болю.",
+      "price": 22.00,
+      "image": "https://example.com/images/citramon.jpg",
+      "available": false
+    },
+    {
+      "id": 5,
+      "name": "Ібупрофен",
+      "description": "Протизапальний і жарознижувальний засіб.",
+      "price": 55.00,
+      "image": "https://example.com/images/ibuprofen.jpg",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Амоксиклав",
+      "description": "Антибіотик широкого спектру дії.",
+      "price": 150.50,
+      "image": "https://example.com/images/amoxiclav.jpg",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Лінекс",
+      "description": "Пробіотик для нормалізації мікрофлори кишечника.",
+      "price": 120.00,
+      "image": "https://example.com/images/linex.jpg",
+      "available": false
+    },
+    {
+      "id": 8,
+      "name": "Еспумізан",
+      "description": "Засіб для усунення підвищеного газоутворення.",
+      "price": 80.70,
+      "image": "https://example.com/images/espumisan.jpg",
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Супрастин",
+      "description": "Антигістамінний препарат для лікування алергії.",
+      "price": 64.50,
+      "image": "https://example.com/images/suprastin.jpg",
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Корвалол",
+      "description": "Седативний засіб для заспокоєння нервової системи.",
+      "price": 35.00,
+      "image": "https://example.com/images/corvalol.jpg",
+      "available": true
+    }
+  ]
+}
